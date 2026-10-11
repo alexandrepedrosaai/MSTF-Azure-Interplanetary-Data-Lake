@@ -22,6 +22,9 @@
 ---
 
 # ACS-WPP Interplanetary AI Mesh
+<img width="1639" height="2268" alt="image" src="https://github.com/user-attachments/assets/6f8744d2-f162-4f82-9a11-083cae5fd26b" />
+
+
 
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-2.1.svg)](CODE_OF_CONDUCT.md)
 [![Azure Deploy](https://github.com/alexandrepedrosaai/acs-wpp-interplanetary-ai-mesh/actions/workflows/azure-container-deploy.yml/badge.svg)](https://github.com/alexandrepedrosaai/acs-wpp-interplanetary-ai-mesh/actions/workflows/azure-container-deploy.yml)
@@ -171,5 +174,7 @@ Created by **Alexandre Pedrosa**, EVP Multimodal AI Engineer Microsoft Azure. Th
 ---
 
 ## 📞 Contact
+<img width="3316" height="2268" alt="image" src="https://github.com/user-attachments/assets/3632c70a-737e-47aa-a9c7-0698f3c5e866" />
+
 
 For any inquiries, please open an issue in the repository.
