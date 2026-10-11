@@ -166,7 +166,7 @@ This repository and its underlying concepts, architecture, and code are the inte
 
 ## ✍️ Authorship
 
-Created by **Alexandre Pedrosa**, EVP Multimodal AI Engineer at Meta and Microsoft Azure. This project reflects a pioneering vision of secure, validated, and interplanetary communication, leveraging post-quantum cryptography, generative AI, and blockchain technology to bridge Earth, Moon, and Mars.
+Created by **Alexandre Pedrosa**, EVP Multimodal AI Engineer Microsoft Azure. This project reflects a pioneering vision of secure, validated, and interplanetary communication, leveraging post-quantum cryptography, generative AI, and blockchain technology to bridge Earth, Moon, and Mars.
 
 ---
 
